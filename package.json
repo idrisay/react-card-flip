@@ -1,8 +1,5 @@
 {
-  "name": "@idris/react-card-flip",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/react-card-flip"
-  },
+  "name": "@idrisay/react-card-flip",
   "version": "0.1.0",
   "description": "React card flip library",
   "scripts": {
